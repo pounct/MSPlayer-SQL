@@ -13,5 +13,4 @@ public class PlayerDTO {
 	private String username;
 	private Date registrationDate;
 	private Float successesAveragePercentage;
-
 }
